@@ -1,0 +1,1 @@
+export default function Customize() { return <div>AI Customize Page</div>; }
